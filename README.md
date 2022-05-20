@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erdeme36
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MLOps
 - 📫 How to reach me erdem.36@hotmail.com
 
 <!---
